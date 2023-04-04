@@ -1,0 +1,3 @@
+
+ (2023-04-04T02:35:56.160021700) ==>  Ernesto: Hola soy el primero
+ (2023-04-04T02:36:27.396377300) ==>  Roberto: Soy el segundo en otra consola
